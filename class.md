@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Van Neih Thawng  
+- Certification: Meta Front-End Version Control Course
 
 ## Instructions
 Please replace the placeholders with your details:
